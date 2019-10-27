@@ -1,4 +1,4 @@
-baseURL = "http://frontendyork.org.uk/"
+baseURL = "https://frontendyork.org.uk/"
 languageCode = "en-gb"
 title = "Front End York"
 theme = "minimal"
