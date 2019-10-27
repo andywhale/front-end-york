@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+<main>
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <h1>{{ .Site.Title }}</h1>
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        <p>See the <a href="/calendar/">calendar</a> for events</p>
+
+        <a class="twitter-timeline" data-width="360" data-height="240" data-link-color="#E81C4F" href="https://twitter.com/frontendyork?ref_src=twsrc%5Etfw">Tweets by frontendyork</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}

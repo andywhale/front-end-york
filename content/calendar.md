@@ -13,9 +13,10 @@ See details from our [October Javascript special](https://www.meetup.com/YorkDev
 
 Instead of a November meeting we are forming part of the [York Tech Fest](https://yorktechfest.github.io/) - an event highlighting the range of technical meetups within York.
 
-### December 4th
-
-We have a great couple of talks lined up to end the year - details coming soon.
+<div class="highlight">
+  <h3>December 4th</h3>
+  We have a great couple of talks lined up to end the year - details coming soon.
+</div>
 
 #### February 5th
 

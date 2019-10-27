@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Front End York"
-    description = "Meetup based in York discussing all things dev ... our next event will be on 5th December - details to follow"
+    description = "Meetup based in York discussing all things dev"
     githubUsername = "#"
     accent = "red"
     showBorder = true
