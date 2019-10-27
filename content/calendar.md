@@ -9,7 +9,7 @@ We aim to meet on the first Wednesday of every month, please see our calendar of
 
 See details from our [October Javascript special](https://www.meetup.com/YorkDevelopers/events/265085707/) over on meetup.
 
-#### November 6th
+#### ~~November 6th~~
 
 Instead of a November meeting we are forming part of the [York Tech Fest](https://yorktechfest.github.io/) - an event highlighting the range of technical meetups within York.
 
