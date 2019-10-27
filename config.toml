@@ -27,8 +27,8 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/calendar/"
+    name = "Calendar"
     weight = 3
 
 #[[menu.main]]
