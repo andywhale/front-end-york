@@ -20,9 +20,9 @@ Instead of a November meeting we are forming part of the [York Tech Fest](https:
 
 #### February 5th
 
-We are not holding a meetup just after Christmas and New Year as we think people will probably need a little while to ease themselves back into real life.
+We are not holding a meetup just after Christmas and New Year as we think people will probably need a little time to ease themselves back into real life.
 
-However we have one talk lined up and are just looking to fill the final slot.
+However we have one talk lined up and are just looking to fill the final slot for our February meetup - please let us know if you are interested.
 
 #### March 4th
 

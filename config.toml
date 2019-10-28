@@ -1,11 +1,11 @@
 baseURL = "https://frontendyork.org.uk/"
 languageCode = "en-gb"
-title = "Front End York"
+title = "Front-end York"
 theme = "minimal"
 googleAnalytics = ""
 
 [params]
-    author = "Front End York"
+    author = "Front-end York"
     description = "Meetup based in York discussing all things dev"
     githubUsername = "#"
     copyright = "&copy; All rights reserved."
