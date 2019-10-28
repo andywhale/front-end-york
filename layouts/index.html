@@ -3,6 +3,7 @@
 <main>
     <div class="intro">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <img class="logo" src="/images/FEYorkLogo.png" alt="Front-end Yrok logo - a series of loading bars">
         <h1>{{ .Site.Title }}</h1>
         <h2>{{ markdownify .Site.Params.Description }}</h2>
         <p>See the <a href="/calendar/">calendar</a> for events</p>
