@@ -3,7 +3,7 @@ title: About
 description: Front End York Explained
 ---
 
-## Is it just for Front End Developers?
+## Is it just for Front-end Developers?
 
 No.
 
