@@ -8,6 +8,7 @@ googleAnalytics = ""
     author = "Front End York"
     description = "Meetup based in York discussing all things dev"
     githubUsername = "#"
+    copyright = "&copy; All rights reserved."
     accent = "red"
     showBorder = true
     backgroundColor = "white"
