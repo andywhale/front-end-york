@@ -11,20 +11,16 @@ We aim to meet on the first Wednesday of every month, please see our calendar of
 
 Instead of a November meeting we are forming part of the [York Tech Fest](https://yorktechfest.github.io/) on October 28th - an event highlighting the range of technical meetups within York.
 
-<div class="highlight">
-  <h3>December 4th</h3>
-  We have a great couple of talks lined up to end the year - details coming soon.
-</div>
-
 ### 2020
 
-#### ~~January 1st~~
+#### ~~December / January 1st~~
 
-We are not holding a meetup just after Christmas and New Year as we think people will probably need a little time to ease themselves back into real life.
+We are not holding a meetup just over Christmas and New Year as we think people will probably need a little time to ease themselves back into real life.
 
-#### February 5th
-
-We have one talk lined up and are just looking to fill the final slot for our February meetup before we announce - please let us know if you are interested (see our Information for Speakers below).
+<div class="highlight">
+  <h3>February 5th</h3>
+  We have a great couple of talks lined up for the first Front End York of the year - more details coming soon!
+</div>
 
 #### March 4th
 
